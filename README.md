@@ -13,13 +13,19 @@
 ## // Subnet.Footprint()
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToothbrushPenguin&show_icons=true&title_color=E93838&icon_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Neural Network Activity" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToothbrushPenguin&background=1C1316&ring=E93838&fire=E93838&currStreakLabel=E93838&sideNums=E93838&currStreakNum=E93838&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothbrushPenguin&layout=compact&title_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Top Languages" />
-</div>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ToothbrushPenguin&show_icons=true&title_color=E93838&icon_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="GitHub Stats" width="48%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToothbrushPenguin&background=1C1316&ring=E93838&fire=E93838&currStreakLabel=E93838&sideNums=E93838&currStreakNum=E93838&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
+
+  <!-- Contributions and Streak -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothbrushPenguin&layout=compact&title_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Top Languages" width="48%" />
+
+ 
+
+</div>
 ## // Subnet.Interests()
 
 <div align="center">
