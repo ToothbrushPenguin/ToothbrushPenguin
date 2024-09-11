@@ -15,22 +15,20 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ToothbrushPenguin&show_icons=true&title_color=E93838&icon_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="GitHub Stats" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ToothbrushPenguin&show_icons=true&title_color=E93838&icon_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="GitHub Stats" width="60%" />
+  
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToothbrushPenguin&background=1C1316&ring=E93838&fire=E93838&currStreakLabel=E93838&sideNums=E93838&currStreakNum=E93838&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
-
-  <!-- Contributions and Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothbrushPenguin&layout=compact&title_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Top Languages" width="48%" />
-
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToothbrushPenguin&background=1C1316&ring=E93838&fire=E93838&currStreakLabel=E93838&sideNums=E93838&currStreakNum=E93838&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="60%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothbrushPenguin&layout=compact&title_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Top Languages" width="60%" />
 
 </div>
 
 ## // Subnet.Interests()
 
 <div align="center">
-  <table style="border-collapse: collapse; text-align: center; width: 60%;">
+  <table style="border-collapse: collapse; text-align: center; width: 70%;">
     <tr>
       <th style="border: 1px solid #000; padding: 10px;">Development</th>
       <th style="border: 1px solid #000; padding: 10px;">Programming</th>
