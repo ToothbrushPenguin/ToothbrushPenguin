@@ -6,7 +6,7 @@
   <pre>
   ALIAS: ToothbrushPenguin
   STATUS: [██████████] 100% JACKED_IN
-  SPEC: Full-Stack Infiltration
+  SPEC: Embedded Systems & Software
   </pre>
 </div>
 
