@@ -51,9 +51,8 @@
 ---
 
 <div align="center">
-  <h1 style="color:#ff0000; font-family: 'Courier New', monospace;">[[ToothbrushPenguin]]</h1>
+ 
   <pre>
-    
   <code style="color:#ff0000;">Transmission end... ToothbrushPenguin, jacking out.</code>
   STATUS: [██████████] 100% JACKED_OUT
   </pre>
