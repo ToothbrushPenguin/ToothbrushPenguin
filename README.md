@@ -53,7 +53,7 @@
 <div align="center">
  
   <pre>
-  <code style="color:#ff0000;">Transmission end... ToothbrushPenguin, jacking out.</code>
+  Transmission end... ToothbrushPenguin, jacking out.
   STATUS: [██████████] 100% JACKED_OUT
   </pre>
 </div>
