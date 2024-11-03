@@ -51,18 +51,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ToothbrushPenguin/ToothbrushPenguin/main/NewLogoB.png" width="150" height="150" alt="ToothbrushPenguin Logo">
-  
   <h1 style="color:#ff0000; font-family: 'Courier New', monospace;">[[ToothbrushPenguin]]</h1>
-
   <pre>
-  ALIAS: ToothbrushPenguin
-  STATUS: [██████████] 100% JACKED_IN
-  SPEC: Embedded Systems & Software
-  </pre>
-</div>
-
-<div align="center"><pre>
+    
   <code style="color:#ff0000;">Transmission end... ToothbrushPenguin, jacking out.</code>
   STATUS: [██████████] 100% JACKED_OUT
   </pre>
