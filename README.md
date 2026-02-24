@@ -1,57 +1,48 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ToothbrushPenguin/ToothbrushPenguin/main/NewLogoB.png" width="150" height="150" alt="ToothbrushPenguin Logo">
-  
-  <h1 style="color:#ff0000; font-family: 'Courier New', monospace;">[[ToothbrushPenguin]]</h1>
 
+
+  <h1><code>[[ToothbrushPenguin]]</code></h1>
   <pre>
   ALIAS: ToothbrushPenguin
   STATUS: [██████████] 100% JACKED_IN
-  SPEC: Embedded Systems & Software
+  SPEC: Industrial Software & Embedded Systems
+  LANG: C++ · C# · Rust · Python
   </pre>
 </div>
+
+## // Stack.Dump()
+
+
+```
+Desktop      Qt 6 · WPF/XAML · .NET
+Web          ASP.NET Core · Blazor · Entity Framework
+Embedded     Embedded C · FPGA (VHDL) · PCB Design
+Infra        Docker · Proxmox · Linux · pfSense · WireGuard
+```
 
 ## // Subnet.Footprint()
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ToothbrushPenguin&show_icons=true&title_color=E93838&icon_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="GitHub Stats" width="60%" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToothbrushPenguin&background=1C1316&ring=E93838&fire=E93838&currStreakLabel=E93838&sideNums=E93838&currStreakNum=E93838&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="60%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothbrushPenguin&layout=compact&title_color=E93838&text_color=FFFFFF&bg_color=1C1316" alt="Top Languages" width="60%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ToothbrushPenguin&background=0D1117&ring=722F37&fire=722F37&currStreakLabel=EDE3D5&sideNums=EDE3D5&currStreakNum=EDE3D5&sideLabels=EDE3D5&dates=EDE3D5&stroke=722F37&border=722F37" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ToothbrushPenguin&background=EDE3D5&ring=722F37&fire=722F37&currStreakLabel=3D3533&sideNums=3D3533&currStreakNum=722F37&sideLabels=3D3533&dates=3D3533&stroke=722F37&border=722F37" />
+    <img src="https://streak-stats.demolab.com/?user=ToothbrushPenguin&background=0D1117&ring=722F37&fire=722F37&currStreakLabel=EDE3D5&sideNums=EDE3D5&currStreakNum=EDE3D5&sideLabels=EDE3D5&dates=EDE3D5&stroke=722F37&border=722F37" alt="GitHub Streak" width="60%" />
+  </picture>
 </div>
 
-## // Subnet.Interests()
+## // Subnet.Activity()
 
 <div align="center">
-  <table style="border-collapse: collapse; text-align: center; width: 70%;">
-    <tr>
-      <th style="border: 1px solid #000; padding: 10px;">Development</th>
-      <th style="border: 1px solid #000; padding: 10px;">Programming</th>
-      <th style="border: 1px solid #000; padding: 10px;">Design/Modeling</th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 10px;">Web Development</td>
-      <td style="border: 1px solid #000; padding: 10px;">Object-Oriented Programming</td>
-      <td style="border: 1px solid #000; padding: 10px;">Fusion 360 Design</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; padding: 10px;">Gaming Dev</td>
-      <td style="border: 1px solid #000; padding: 10px;">Embedded Programming</td>
-      <td style="border: 1px solid #000; padding: 10px;">3D Modeling/Print</td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToothbrushPenguin/ToothbrushPenguin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToothbrushPenguin/ToothbrushPenguin/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ToothbrushPenguin/ToothbrushPenguin/output/github-snake.svg" alt="Contribution Snake" width="100%" />
+  </picture>
 </div>
-
 
 ---
 
 <div align="center">
- 
   <pre>
   Transmission end... ToothbrushPenguin, jacking out.
   STATUS: [██████████] 100% JACKED_OUT
